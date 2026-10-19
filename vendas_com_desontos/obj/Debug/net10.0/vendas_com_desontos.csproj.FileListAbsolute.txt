@@ -1,0 +1,15 @@
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/bin/Debug/net10.0/vendas_com_desontos
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/bin/Debug/net10.0/vendas_com_desontos.deps.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/bin/Debug/net10.0/vendas_com_desontos.runtimeconfig.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/bin/Debug/net10.0/vendas_com_desontos.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/bin/Debug/net10.0/vendas_com_desontos.pdb
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/vendas_com_desontos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/vendas_com_desontos.AssemblyInfoInputs.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/vendas_com_desontos.AssemblyInfo.cs
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/vendas_com_desontos.csproj.CoreCompileInputs.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/vendas_com_desontos.sourcelink.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/vendas_com_desontos.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/refint/vendas_com_desontos.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/vendas_com_desontos.pdb
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/vendas_com_desontos.genruntimeconfig.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/vendas_com_desontos/obj/Debug/net10.0/ref/vendas_com_desontos.dll

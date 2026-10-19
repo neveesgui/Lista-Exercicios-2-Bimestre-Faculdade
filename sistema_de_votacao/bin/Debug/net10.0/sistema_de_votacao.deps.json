@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "sistema_de_votacao/1.0.0": {
+        "runtime": {
+          "sistema_de_votacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistema_de_votacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

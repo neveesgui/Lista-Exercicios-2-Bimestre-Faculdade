@@ -1,0 +1,15 @@
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/bin/Debug/net10.0/sistema_de_pedidos
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/bin/Debug/net10.0/sistema_de_pedidos.deps.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/bin/Debug/net10.0/sistema_de_pedidos.runtimeconfig.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/bin/Debug/net10.0/sistema_de_pedidos.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/bin/Debug/net10.0/sistema_de_pedidos.pdb
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/sistema_de_pedidos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/sistema_de_pedidos.AssemblyInfoInputs.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/sistema_de_pedidos.AssemblyInfo.cs
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/sistema_de_pedidos.csproj.CoreCompileInputs.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/sistema_de_pedidos.sourcelink.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/sistema_de_pedidos.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/refint/sistema_de_pedidos.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/sistema_de_pedidos.pdb
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/sistema_de_pedidos.genruntimeconfig.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_de_pedidos/obj/Debug/net10.0/ref/sistema_de_pedidos.dll

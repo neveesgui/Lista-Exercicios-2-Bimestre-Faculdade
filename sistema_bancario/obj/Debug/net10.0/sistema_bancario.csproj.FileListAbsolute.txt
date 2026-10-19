@@ -1,0 +1,15 @@
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/bin/Debug/net10.0/sistema_bancario
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/bin/Debug/net10.0/sistema_bancario.deps.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/bin/Debug/net10.0/sistema_bancario.runtimeconfig.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/bin/Debug/net10.0/sistema_bancario.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/bin/Debug/net10.0/sistema_bancario.pdb
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/sistema_bancario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/sistema_bancario.AssemblyInfoInputs.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/sistema_bancario.AssemblyInfo.cs
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/sistema_bancario.csproj.CoreCompileInputs.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/sistema_bancario.sourcelink.json
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/sistema_bancario.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/refint/sistema_bancario.dll
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/sistema_bancario.pdb
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/sistema_bancario.genruntimeconfig.cache
+/Users/guilhermeneves/Desktop/C#/lista_bimestre2/sistema_bancario/obj/Debug/net10.0/ref/sistema_bancario.dll
